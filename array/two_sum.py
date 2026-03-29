@@ -28,3 +28,6 @@ nums = [2, 7, 11, 15]
 target = 9  
 
 print(twosum(nums, target))
+
+# Time Complexicity = O(n)
+# Space Complexicity = O(1)
